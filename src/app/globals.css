@@ -24,3 +24,12 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.main{
+position: fixed;
+top: 100px;
+left: 500px;
+background-color: white;
+height: 600px;
+width: 600px;
+}
